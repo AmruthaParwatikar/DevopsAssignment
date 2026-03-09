@@ -1,6 +1,6 @@
 # ACEest_Fitness_Project
 
-![CI](https://github.com/<your-username>/ACEest_Fitness_Project/actions/workflows/ci.yml/badge.svg)
+
 
 A simple **Flask-based fitness membership management API** with Dockerized deployment and GitHub Actions CI/CD.
 
